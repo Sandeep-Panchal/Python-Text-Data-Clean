@@ -1,7 +1,3 @@
-# Python-Text-Data-Clean
-
-## Project Description
-
  - This package cleans the text data such as removal of HTML tags, URLs, NLTK Stopwords, numbers, punctuations.
  
 ### Features
