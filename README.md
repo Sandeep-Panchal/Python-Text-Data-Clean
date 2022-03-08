@@ -1,4 +1,8 @@
- - This package cleans the text data such as removal of HTML tags, URLs, NLTK Stopwords, numbers, punctuations.
+### Python Package Link:
+ - __https://pypi.org/project/py-text-data-clean/__
+
+## Project Description
+- This package cleans the text data such as removal of HTML tags, URLs, NLTK Stopwords, numbers, punctuations.
  
 ### Features
  - Remove URLs
